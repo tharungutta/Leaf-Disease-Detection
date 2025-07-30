@@ -26,5 +26,4 @@ streamlit run main.py
 The leaf disease detection model is built using deep learning techniques, and it uses transfer learning to leverage the pre-trained knowledge of a base model. The model is trained on a dataset containing images of 33 different types of leaf diseases. For more information about the architecture, dataset, and training process, please refer to the code and documentation provided.
 
 
-## Acknowledgments
-We would like to acknowledge the contributions of the open-source community and the creators of the base model that this project builds upon. Your work and support are greatly appreciated.
+
